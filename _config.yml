@@ -11,9 +11,9 @@ title                    : "Duo Zhang"
 title_separator          : "-"
 name                     : &name "Duo Zhang"
 description              : &description "personal description"
-url                      : https://celestial-d.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://DuoZhangISU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "celestial-d/celestial-d.github.io"
+repository               : "DuoZhangISU/DuoZhangISU.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
