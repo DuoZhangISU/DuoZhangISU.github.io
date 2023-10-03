@@ -32,6 +32,8 @@ My current research interests focus on exploration of **bug reproducibility** an
 
 Please check a full list at [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=QXwhPMkAAAAJ)
 
+- "Understanding Persistent-Memory Related Issues in the Linux Kernel", Om Rameshwar Gatla, **Duo Zhang**, Wei Xu, Mai Zheng. ACM Transactions On Storage(TOS), 2023
+
 - "Analyzing Configuration Dependencies of DAX File Systems",
 Tabassum Mahmud, Om Rameshwar Gatla, **Duo Zhang**, Carson Love, Ryan Bumann, and Mai Zheng, Iowa State University. Proceedings of the 14th Annual Non-Volatile Memories Workshop (NVMW), 2023
 
