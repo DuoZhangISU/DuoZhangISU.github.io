@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Duo Zhang, a Ph.D. candidate in [Data Storage Lab](https://www.ece.iastate.edu/~mai/lab/dsl.html) at Iowa State University. I'm interested in all things involving the storage system. 
+Hi! I'm Duo Zhang and got my Ph.D. in [Data Storage Lab](https://www.ece.iastate.edu/~mai/lab/dsl.html) at Iowa State University. I'm interested in all things involving the storage system. 
 
 For more information, please click here for the [Curriculum Vitae](https://github.com/DuoZhangISU/DuoZhangISU.github.io/blob/master/files/CV_Duo.pdf)
 
-My current research interests focus on exploration of **bug reproducibility** and the **reliability** issues of the **storage system** with advanced storage technologies (e.g., persistent memory, CXL). Specifically, I am interested in developing noval system testing frameworks through state-of-the-art tools (i.e., virtual machines (QEMU), tracers(e.g., kprobe) and static analysis (LLVM)).
+My current research interests focus on exploration of **bug reproducibility** and the **reliability** issues of the **storage system** with advanced storage technologies (e.g., persistent memory, CXL). Specifically, I am interested in developing different types of system testing frameworks through state-of-the-art tools (i.e., virtual machines (QEMU), tracers(e.g., kprobe), and static analysis (LLVM)).
 
 <h2 id="News">News!</h2>
 
-- **[09/2023] I expect to graduate in Dec. 2023 and am looking for a full time position!**
+- **[12/2023] I graduated in Dec. 2023 and am looking for a full time position!**
 - [05/2023] One paper to appear in ACM TOS! Thank the reviewers for constructive feedback!
 - [02/2023] One paper accepted in NVMW'23! Thank the reviewers for constructive feedback!
 - [12/2022] One paper on file systems accepted in FAST'23! Thank the reviewers for constructive feedback!
