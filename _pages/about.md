@@ -12,7 +12,7 @@ Hi! I'm Duo Zhang and got my Ph.D. in [Data Storage Lab](https://www.ece.iastate
 
 For more information, please click here for the [Curriculum Vitae](https://github.com/DuoZhangISU/DuoZhangISU.github.io/blob/master/files/CV_Duo.pdf)
 
-My research focuses on **observability** and **reliability** issues of the **storage system** with advanced storage technologies (e.g., persistent memory, CXL). My work involves system analysis and developing novel system testing frameworks through state-of-the-art tools (i.e., virtual machines (**QEMU**), tracers(e.g., kprobe), and **static analysis** (LLVM)).
+My research focuses on **observability** and **reliability** issues of the **storage system** with advanced storage technologies (e.g., persistent memory, CXL). My work involves system analysis and developing novel system testing frameworks through state-of-the-art tools (i.e., virtual machine (**QEMU**), tracers(e.g., kprobe), and **static analysis** (LLVM)).
 
 <h2 id="News">News!</h2>
 
